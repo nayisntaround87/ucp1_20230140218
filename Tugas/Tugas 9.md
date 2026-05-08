@@ -1,5 +1,5 @@
 1. POST Login
-![post login](image.png)
+![alt text](image-10.png)
 2. POST Kategori
 ![post kategori](image.png)
 3. GET categoryAPI
